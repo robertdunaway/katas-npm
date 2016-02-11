@@ -1,0 +1,17 @@
+Visual Studio
+
+Use standards and guidelines as references for katas.
+
+Use interview questions for katas.
+
+
+
+Include tools related things (Not sure there is enough to put in own sections)
+- Creating a repo in GitHub and using Tortoise to get it check out code.
+- Creating a repo in GitHub and using the GitHub 3rd party tool to check out code.
+
+
+https://www.smashingmagazine.com/2014/06/building-with-gulp/
+http://fettblog.eu/gulp-recipes-part-1/
+
+
