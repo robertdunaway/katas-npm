@@ -1,0 +1,22 @@
+{
+  "name": "ASP.NET",
+  "description": "",
+  "main": "",
+  "authors": [],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "~3.0.3",
+    "font-awesome": "~4.5.0",
+    "jquery": "~2.2.0",
+    "lodash": "~4.0.0"
+  }
+}
