@@ -3,6 +3,5 @@
   "name": "ASP.NET",
   "private": true,
   "devDependencies": {
-    "gulp": "^3.9.0"
   }
 }
