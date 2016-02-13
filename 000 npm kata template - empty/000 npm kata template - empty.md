@@ -1,5 +1,5 @@
 ---
-title: 000 Gulp - ]
+title: 000 NPM - ]
 ## Heading ##
 tags: 
 - AngularJS
@@ -17,12 +17,12 @@ tags:
 
 ###http://robertdunaway.github.io
 
-##[Gulp code kata list](http://mycodekatas.github.io/gulp.html)
+##[NPM code kata list](http://mycodekatas.github.io/NPM.html)
 ##[All code katas lists](http://mycodekatas.github.io/)
 
- <img src="https://raw.githubusercontent.com/robertdunaway/katas-gulp/master/katas-Gulp-logo.png" alt="Smiley face" height="200" width="200"> 
+ <img src="https://raw.githubusercontent.com/robertdunaway/katas-npm/master/katas-NPM-logo.png" alt="Smiley face" height="200" width="200"> 
 
-# [000 Gulp - ]
+# [000 NPM - ]
 
 ## Duration
 [minutes]
@@ -31,17 +31,11 @@ tags:
 [...]
 
 ### For more information 
-BING/GOOGLE: “Gulp ”
-
-Book: 
-[Gulp - Quick guide to getting up and running today](http://www.amazon.com/Gulp-Quick-guide-getting-running-ebook/dp/B010NXMFF6/)
-<br>
-<img src="https://raw.githubusercontent.com/robertdunaway/gulp-book/master/bookcoverimage.PNG" alt="Smiley face" height="150" width="150">
-
+BING/GOOGLE: “NPM ”
 
 
 ## Instructions
-Get tutorial folder or the entire katas-Gulp repo.
+Get tutorial folder or the entire katas-NPM repo.
 Open the `[before/*.sln]` file and execute the kata.
 Feel free to execute this kata multiple times because repetition creates motor memory.
 
@@ -64,4 +58,4 @@ Take a few minutes and imagine more examples.
 
 <br>
 
- <img src="https://raw.githubusercontent.com/robertdunaway/katas-gulp/master/katas-Gulp-logo.png" alt="Smiley face" height="200" width="200"> 
+ <img src="https://raw.githubusercontent.com/robertdunaway/katas-npm/master/katas-NPM-logo.png" alt="Smiley face" height="200" width="200"> 
