@@ -1,3 +1,0 @@
-Include an explaination of the anatomy of the gulpfile.js
-
-http://tagtree.tv/gulp 
