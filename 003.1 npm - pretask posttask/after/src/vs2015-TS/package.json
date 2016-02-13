@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+
+    "start": "node ./npm-scripts/pretask.js",
+    "stop": "node ./npm-scripts/posttask.js",
     "console": "node ./npm-scripts/console.js",
     "task1": "node ./npm-scripts/task1.js",
     "task2": "node ./npm-scripts/task2.js",
     "task3": "node ./npm-scripts/task3.js",
     "allTasks": "node ./npm-scripts/task1.js && node ./npm-scripts/task2.js && node ./npm-scripts/task3.js"
+
   },
   "author": "",
   "license": "ISC",
