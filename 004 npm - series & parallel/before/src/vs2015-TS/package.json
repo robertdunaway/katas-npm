@@ -4,8 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "task": "node ./npm-scripts/console.js"
+    "console": "node ./npm-scripts/console.js",
+    "task1": "node ./npm-scripts/task1.js",
+    "task2": "node ./npm-scripts/task2.js",
+    "task3": "node ./npm-scripts/task3.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "date-and-time": "^0.3.0"
+  }
 }
