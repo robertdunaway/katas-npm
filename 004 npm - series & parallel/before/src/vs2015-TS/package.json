@@ -1,8 +1,11 @@
 {
+  "name": "npm",
   "version": "1.0.0",
-  "name": "ASP.NET",
-  "private": true,
-  "devDependencies": {
-    "gulp": "^3.9.0"
-  }
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "task": "node ./npm-scripts/console.js"
+  },
+  "author": "",
+  "license": "ISC"
 }
