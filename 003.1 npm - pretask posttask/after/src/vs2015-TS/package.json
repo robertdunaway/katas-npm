@@ -2,16 +2,35 @@
   "name": "npm",
   "version": "1.0.0",
   "description": "",
+  "dependencies" : {
+    "minimist": "latest"
+  },
   "main": "index.js",
   "scripts": {
 
-    "start": "node ./npm-scripts/pretask.js",
-    "stop": "node ./npm-scripts/posttask.js",
-    "console": "node ./npm-scripts/console.js",
-    "task1": "node ./npm-scripts/task1.js",
-    "task2": "node ./npm-scripts/task2.js",
-    "task3": "node ./npm-scripts/task3.js",
-    "allTasks": "node ./npm-scripts/task1.js && node ./npm-scripts/task2.js && node ./npm-scripts/task3.js"
+    "name_task": "node npm-scripts/task_with_name.js -n=ScriptName ",
+
+    "prestart": "node npm-scripts/task_with_name.js -n=PreStart",
+    "start": "node npm-scripts/task_with_name.js -n=Start",
+    "poststart": "node npm-scripts/task_with_name.js -n=PostStart",
+
+
+    "prestop": "node npm-scripts/task_with_name.js -n=PreStop",
+    "stop": "node npm-scripts/task_with_name.js -n=Stop",
+    "poststop": "node npm-scripts/task_with_name.js -n=PostStop",
+
+
+    "console": "node npm-scripts/console.js",
+
+
+    "pretask1": "node npm-scripts/task_with_name.js -n=PreTask1",
+    "task1": "node npm-scripts/task_with_name.js -n=Task1",
+    "posttask1": "node npm-scripts/task_with_name.js -n=PostTaks1",
+
+
+    "task2": "node npm-scripts/task2.js",
+    "task3": "node npm-scripts/task3.js",
+    "allTasks": "npm run task1 && npm run task2 && npm run task3"
 
   },
   "author": "",
