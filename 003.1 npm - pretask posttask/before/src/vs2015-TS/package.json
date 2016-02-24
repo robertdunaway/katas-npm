@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "task": "node ./npm-scripts/console.js"
+    
   },
   "author": "",
   "license": "ISC"
