@@ -15,5 +15,5 @@ module.exports = function (name) {
             console.log(name + ' stopped at ' + time());
             clearInterval(handle);
         }
-    }, 500);
+    }, 1000);
 };
