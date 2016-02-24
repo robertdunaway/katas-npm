@@ -2,6 +2,9 @@
   "name": "npm",
   "version": "1.0.0",
   "description": "",
+  "dependencies": {
+      "minimist": "latest"
+  },
   "main": "index.js",
   "scripts": {
     
