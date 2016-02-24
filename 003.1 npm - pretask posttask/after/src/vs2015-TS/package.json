@@ -20,9 +20,9 @@
     "poststop": "node npm-scripts/task_with_name.js -n=PostStop",
     
 
-    "pretask1": "node npm-scripts/task_with_name.js -n=PreTask1",
-    "task1": "node npm-scripts/task_with_name.js -n=Task1",
-    "posttask1": "node npm-scripts/task_with_name.js -n=PostTaks1",
+    "pretask1": "node npm-scripts/task_with_name.js",
+    "task1": "node npm-scripts/task1.js",
+    "posttask1": "node npm-scripts/task_with_name.js",
 
 
     "task2": "node npm-scripts/task2.js",
